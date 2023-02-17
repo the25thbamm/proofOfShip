@@ -3,8 +3,8 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://raw.githubusercontent.com/the25thbamm/proofOfShip/master/proof-of-ship/proof-of-ship.json-ld",
-      "jsonSchema": "https://raw.githubusercontent.com/the25thbamm/proofOfShip/master/proof-of-ship/proof-of-ship.json"
+      "jsonLdContext": "https://raw.githubusercontent.com/the25thbamm/proofOfShip/master/proof-of-ship/proof-of-ship-v2.json-ld",
+      "jsonSchema": "https://raw.githubusercontent.com/the25thbamm/proofOfShip/master/proof-of-ship/proof-of-ship-v2.json"
     }
   },
   "required": [
