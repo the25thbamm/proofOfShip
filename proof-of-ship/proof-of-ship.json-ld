@@ -6,13 +6,13 @@
       "id": "@id",
       "type": "@type",
       "ProofOfShip": {
-        "@id": "https://raw.githubusercontent.com/the25thbamm/schemas/master/proof-of-ship.json-ld#ProofOfShip",
+        "@id": "https://raw.githubusercontent.com/the25thbamm/proofOfShip/master/proof-of-ship/proof-of-ship.json-ld#ProofOfShip",
         "@context": {
           "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://raw.githubusercontent.com/the25thbamm/schemas/master/proof-of-ship-vocab.md#",
+          "vocab": "https://raw.githubusercontent.com/the25thbamm/proofOfShip/master/proof-of-ship/proof-of-ship-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "shipEntryYear": {
             "@id": "vocab:shipEntryYear",
