@@ -5,7 +5,7 @@
       "@protected": true,
       "id": "@id",
       "type": "@type",
-      "ProofOfShip": {
+      "ProofOfShips": {
         "@id": "https://raw.githubusercontent.com/the25thbamm/proofOfShip/master/proof-of-ship/proof-of-ship-v2.json-ld#ProofOfShip",
         "@context": {
           "@version": 1.1,
